@@ -8,9 +8,9 @@
 
 ## Documentation - For TekBASE Installation
 
-<a href="https://github.com/celltek/game.protocol/archive/refs/heads/main.zip">Download the Main.zip</a> from Github.
-Unzip it on your desktop.
-Upload only the gameq3 folder in your TekBASE FTP to includes, so that it is overwritten.
+- <a href="https://github.com/celltek/game.protocol/archive/refs/heads/main.zip">Download the Main.zip</a> from Github.
+- Unzip it on your desktop.
+- Upload only the gameq3 folder in your TekBASE FTP to includes, so that it is overwritten.
 
 ## Community
 
