@@ -1,4 +1,5 @@
-## Dedicated Server Status Protocol (org. repo Austinb/GameQ)
+## Dedicated Server Status Protocol - Modified
+(org. repo Austinb)
 <p>
     <a href="https://github.com/celltek/imageserver/blob/master/LICENSE"><img src="https://img.shields.io/github/license/celltek/game.protocol" alt="License"></a>
     <a href="https://celltek.de/discord"><img src="https://img.shields.io/discord/482574071377428481.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord"></a>
