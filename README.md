@@ -103,6 +103,7 @@ Mordhau
 Mta
 Mumble
 Ns2
+Onset
 Pixark
 Projectrealitybf2
 Quake2
