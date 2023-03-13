@@ -22,7 +22,6 @@ namespace GameQ\Protocols;
  * Class Rust
  *
  * @package GameQ\Protocols
- * @author  Austin Bischoff <austin@codebeard.com>
  */
 class Rust extends Source
 {
@@ -40,4 +39,13 @@ class Rust extends Source
      * @type string
      */
     protected $name_long = "Rust";
+	
+	
+	/**
+     * query_port = client_port + 1
+     *
+     * @type int
+     */
+    protected $port_diff = 1;
+	
 }
