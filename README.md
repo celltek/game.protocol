@@ -97,6 +97,7 @@ L4d
 L4d2
 Lhmp
 Minecraft
+Minecraftbe
 Minecraftpe
 Mohaa
 Mordhau
